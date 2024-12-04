@@ -1,0 +1,15 @@
+{
+  "name": "dollop",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    // your dependencies here
+  },
+  "devDependencies": {
+    // your dev dependencies here
+  }
+}
