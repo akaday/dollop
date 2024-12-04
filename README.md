@@ -78,6 +78,16 @@ Before you open up a codespace on a repository, you can create a development con
 
 **Wait about 60 seconds then refresh your repository landing page for the next step.**
 
+## Enhancements to the `ci.yml` file
+
+The `ci.yml` file has been enhanced to include the following jobs:
+
+* Run tests using a testing framework like Jest
+* Lint the code using a linter like ESLint
+* Build the project using a build tool like Webpack
+* Configure the workflow to run on pull requests
+* Add notifications for build failures using a notification service like Slack
+
 <footer>
 
 <!--
